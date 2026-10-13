@@ -1,0 +1,6 @@
+mill_id,mill_name,latitude,longitude,capacity_t_per_hr,weighbridges,ramp_capacity_t,unload_min_per_truck_mean
+M01,Mill Alpha,3.62,102.95,60,2,400,14
+M02,Mill Bravo,3.85,103.3,45,2,300,16
+M03,Mill Charlie,3.41,103.15,60,2,400,14
+M04,Mill Delta,3.97,102.78,30,1,200,18
+M05,Mill Echo,3.3,103.45,45,2,300,16
